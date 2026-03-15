@@ -1,0 +1,16 @@
+user_name,email,first_name,last_name,role,resume_url
+sarah.jones,sarah.jones@email.com,Sarah,Jones,recruiter,
+mike.chen,mike.chen@email.com,Mike,Chen,recruiter,
+priya.patel,priya.patel@email.com,Priya,Patel,recruiter,
+alex.kumar,alex.kumar@email.com,Alex,Kumar,recruiter,
+lisa.morgan,lisa.morgan@email.com,Lisa,Morgan,recruiter,
+ravi.shankar,ravi.shankar@email.com,Ravi,Shankar,candidate,https://storage.example.com/resumes/ravi-shankar.pdf
+ananya.reddy,ananya.reddy@email.com,Ananya,Reddy,candidate,https://storage.example.com/resumes/ananya-reddy.pdf
+john.smith,john.smith@email.com,John,Smith,candidate,https://storage.example.com/resumes/john-smith.pdf
+mei.zhang,mei.zhang@email.com,Mei,Zhang,candidate,https://storage.example.com/resumes/mei-zhang.pdf
+carlos.diaz,carlos.diaz@email.com,Carlos,Diaz,candidate,https://storage.example.com/resumes/carlos-diaz.pdf
+neha.gupta,neha.gupta@email.com,Neha,Gupta,candidate,https://storage.example.com/resumes/neha-gupta.pdf
+tom.harris,tom.harris@email.com,Tom,Harris,candidate,https://storage.example.com/resumes/tom-harris.pdf
+divya.nair,divya.nair@email.com,Divya,Nair,candidate,https://storage.example.com/resumes/divya-nair.pdf
+james.wilson,james.wilson@email.com,James,Wilson,candidate,https://storage.example.com/resumes/james-wilson.pdf
+aisha.rahman,aisha.rahman@email.com,Aisha,Rahman,candidate,https://storage.example.com/resumes/aisha-rahman.pdf

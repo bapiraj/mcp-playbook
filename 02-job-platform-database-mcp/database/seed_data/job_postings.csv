@@ -1,0 +1,2 @@
+recruiter_user_name,title,company,location,description,status
+sarah.jones,AI Engineer,Google,San Francisco,"We are looking for an AI Engineer to join our team at Google. You will build and deploy cutting-edge AI systems leveraging LLMs, RAG pipelines, and MCP integrations. Strong experience with PyTorch, NLP, and working with large language models in production is required.",open

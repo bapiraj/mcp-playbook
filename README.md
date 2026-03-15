@@ -7,6 +7,7 @@ A collection of Model Context Protocol (MCP) servers — built to explore, learn
 | Server | Description |
 |--------|-------------|
 | [01-todo-mcp-server](./01-todo-mcp-server) | A simple MCP server for managing a todo list backed by a CSV file |
+| [02-job-platform-database-mcp](./02-job-platform-database-mcp) | A job recruiting platform MCP server backed by SQLite — supports candidates searching/applying for jobs and recruiters managing postings and applicants |
 
 ## What is MCP?
 

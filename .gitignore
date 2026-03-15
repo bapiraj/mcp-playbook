@@ -1,2 +1,5 @@
 data/
 .claude/
+__pycache__/
+.venv/
+*.db
